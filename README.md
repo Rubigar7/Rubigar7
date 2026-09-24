@@ -1,7 +1,7 @@
 <a href="https://rubengarcia.pages.dev">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-es-oscuro.svg">
-  <img alt="Rubén García Domínguez · Ingeniero de IA aplicada. Llevo LLMs, visión y voz a producción, y construyo el producto que los rodea. rubengarcia.pages.dev" src="assets/banner-es-claro.svg" width="100%">
+  <img alt="Rubén García Domínguez · Ingeniero de IA aplicada. Llevo LLMs, visión y voz a producción, y construyo el producto que los rodea." src="assets/banner-es-claro.svg" width="100%">
 </picture>
 </a>
 
@@ -36,7 +36,7 @@ Las capturas, la arquitectura y las decisiones de los dos están en [rubengarcia
 <a href="https://rubengarcia.pages.dev">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-en-oscuro.svg">
-  <img alt="Rubén García Domínguez · Applied AI engineer. I put LLMs, vision and voice into production, and build the product around them. rubengarcia.pages.dev" src="assets/banner-en-claro.svg" width="100%">
+  <img alt="Rubén García Domínguez · Applied AI engineer. I put LLMs, vision and voice into production, and build the product around them." src="assets/banner-en-claro.svg" width="100%">
 </picture>
 </a>
 
